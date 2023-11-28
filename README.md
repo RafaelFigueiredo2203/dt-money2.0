@@ -1,6 +1,6 @@
 
 <h1 align="center" >
-![image](https://github.com/RafaelFigueiredo2203/dt-money2.0/assets/60237326/b361b57f-fb32-416c-a4ff-016018ec8f7)
+<img src="./src/assets/logo.png"/>
 </h1>
 
 
@@ -9,8 +9,6 @@
 
 <h1 align="center" >
 
-
-![image](https://github.com/RafaelFigueiredo2203/dt-money2.0/assets/60237326/b361b57f-fb32-416c-a4ff-016018ec8f7)
 ![image](https://github.com/RafaelFigueiredo2203/dt-money2.0/assets/60237326/00f40685-d6e8-45dd-96dd-1c25064d37f0)
 
 
