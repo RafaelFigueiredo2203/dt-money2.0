@@ -29,25 +29,27 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Typescript](https://www.typescriptlang.org/)
 - [React-Hook-Form](https://react-hook-form.com/)
 - [zod](https://zod.dev/)
-- [Immer](https://immerjs.github.io/immer/)
-- [React-Router-Dom](https://reactrouter.com/en/main)
+- [Phosphor-react](https://phosphoricons.com/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
 
 
 ## 💻 Projeto
 
-Ignite Timer , inspirado na técnica pomodoro.🚀🕐✅
+DT Money - Controle de transações.🚀✅
 <br> <br>
 
-Este projeto foi desenvolvido durante o módulo 2 de ReactJs no Ignite, abordando o assunto de SPA(Single Page Application), utilizamos o React-Router-Dom para criar as rotas na aplicação , vimos a facilidade de criar formulários com o react-hook-form.
-<br> <br>
-
-
-Reforçamos sobre a funcionalidade useContext e como é muito bem utilizada para se passar informações entre todos os componentes da aplicação , aprendemos também sobre o hook useReducer e como nos auxilia a manter nosso estado quando se torna mais complexo em uma forma mais simples .
+Este projeto foi desenvolvido durante o módulo 3 de ReactJs no Ignite, Dt Money , um projeto para controle de transações , nesse projeto é possível inserir novas transações e ter um controle maior sobre suas entradas e saídas .↘️↗️↘️ .
 <br> <br>
 
 
-No geral a aplicação foi muito bacana , é um sisteminha muito útil para gerenciamento de tempo , aprendi muitos conceitos e técnicas durante o desenvolvimento e pretendo me aprimorar ainda mais !🚀🚀
+Foi desenvolvido utilizando Vite/React com typescript , na estilização usamos styled-components , para leitura e criação de dados , utilizamos o Json-server , para simular uma api de acesso a um banco de dados fictício .🚀
+<br> <br>
 
+
+Gostei muito de desenvolver esse projeto , nele aprendi a criar meu próprios hooks no React , aprimorei meus conhecimentos sobre acessibilidade na aplicação e sua importância.✅❤️
+<br> <br>
+
+Aprendemos também a como deixar nossa aplicação mais performática, utilizando React DevTools , Context Selectors para evitar que quando um valor de um contexto é alterado , todos os componentes que usam a Context não sejam renderizados novamente , vimos também como usar o useCallback , memo e useMemo , para quando for necessário não deixar que nossa aplicação faça renderizações desnecessárias!! 🚀🚀   
 
 
 ## 🚀 Como executar
