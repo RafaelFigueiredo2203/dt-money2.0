@@ -1,27 +1,62 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h1 align="center" >
+  Ignite Timer
+</h1>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+<br>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<h1 align="center" >
 
-- Configure the top-level `parserOptions` property like this:
+  
+![image](https://github.com/RafaelFigueiredo2203/dt-money2.0/assets/60237326/00f40685-d6e8-45dd-96dd-1c25064d37f0)
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![image](https://github.com/RafaelFigueiredo2203/dt-money2.0/assets/60237326/f4da4417-97f4-4b96-8d4c-18a71937098e)
+
+
+
+
+  </h1>
+
+
+## ✨ Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [Vite](https://vitejs.dev/)
+- [Styled-Components](https://styled-components.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [React-Hook-Form](https://react-hook-form.com/)
+- [zod](https://zod.dev/)
+- [Immer](https://immerjs.github.io/immer/)
+- [React-Router-Dom](https://reactrouter.com/en/main)
+
+
+## 💻 Projeto
+
+Ignite Timer , inspirado na técnica pomodoro.🚀🕐✅
+<br> <br>
+
+Este projeto foi desenvolvido durante o módulo 2 de ReactJs no Ignite, abordando o assunto de SPA(Single Page Application), utilizamos o React-Router-Dom para criar as rotas na aplicação , vimos a facilidade de criar formulários com o react-hook-form.
+<br> <br>
+
+
+Reforçamos sobre a funcionalidade useContext e como é muito bem utilizada para se passar informações entre todos os componentes da aplicação , aprendemos também sobre o hook useReducer e como nos auxilia a manter nosso estado quando se torna mais complexo em uma forma mais simples .
+<br> <br>
+
+
+No geral a aplicação foi muito bacana , é um sisteminha muito útil para gerenciamento de tempo , aprendi muitos conceitos e técnicas durante o desenvolvimento e pretendo me aprimorar ainda mais !🚀🚀
+
+
+
+## 🚀 Como executar
+
+- Clone o repositório
+- Instale as dependências com `yarn` ou `npm install`
+- Inicie o servidor com `yarn start` ou `npm start`
+
+
+Never Stop Learning.🚀 🚀 🚀 
+
