@@ -1,6 +1,7 @@
 
 <h1 align="center" >
-  Ignite Timer
+  ![image](https://github.com/RafaelFigueiredo2203/dt-money2.0/assets/60237326/ffb2eaf7-24c1-4a7c-b56e-4e7a5cffbabe)
+
 </h1>
 
 
