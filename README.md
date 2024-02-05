@@ -11,9 +11,7 @@
 
 ![image](https://github.com/RafaelFigueiredo2203/dt-money2.0/assets/60237326/00f40685-d6e8-45dd-96dd-1c25064d37f0)
 
-![image](https://github.com/RafaelFigueiredo2203/dt-money2.0/assets/60237326/68aee512-e2e6-4e12-809a-06f91136e97f)
 
-![image](https://github.com/RafaelFigueiredo2203/dt-money2.0/assets/60237326/697f4cb5-217d-4726-abbf-0e036f643fdb)
 
 
 
